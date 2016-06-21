@@ -4,6 +4,7 @@
 
 - Babel configuration
 - Nodemon for automatically restart the dev server
+- Production environment configuration
 - Built in rest API authentication
 - MongoDB configuration
 - Linting with Airbnb eslint configuration
